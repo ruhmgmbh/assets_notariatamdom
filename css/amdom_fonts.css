@@ -1,0 +1,29 @@
+/* Berlingske Sans — Regular (400) */
+@font-face {
+  font-family: "Berlingske Sans";
+  src: url("https://ruhmgmbh.github.io/website_font/fonts/rg.woff2")
+    format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Berlingske Sans — Medium (500) */
+@font-face {
+  font-family: "Berlingske Sans";
+  src: url("https://ruhmgmbh.github.io/website_font/fonts/md.woff2")
+    format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Berlingske Serif Condensed — Regular (400) */
+@font-face {
+  font-family: "Berlingske Serif Condensed";
+  src: url("https://ruhmgmbh.github.io/website_font/fonts/condensed/rg_condensed.woff2")
+    format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
